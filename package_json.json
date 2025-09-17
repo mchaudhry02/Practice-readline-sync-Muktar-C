@@ -1,0 +1,22 @@
+{
+  "name": "practice-readline-sync-quiz",
+  "version": "1.0.0",
+  "description": "A command-line quiz application testing Values, Data Types, and Operations knowledge",
+  "main": "quiz.js",
+  "scripts": {
+    "start": "node quiz.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "quiz",
+    "readline-sync",
+    "education",
+    "data-types"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
